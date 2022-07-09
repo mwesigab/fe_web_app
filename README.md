@@ -4,7 +4,7 @@ A to-do application for Rocket Health....................
 
 ## Installation Instructions
 
-- Clone the application repository from [here](https://www.github.com/mwesigab).
+- Clone the application repository from [here](https://github.com/mwesigab/fe_web_app).
 
 - Navigate into the project folder using CMD or terminal (Unix) `cd fe_web_app`
 
